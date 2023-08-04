@@ -5,7 +5,9 @@ Este é o repositório da disciplina de Projeto Integrador 3 ofertada na 9ª fas
 
 Plano de ensino
 
-[Modelo de proposta de tema de PI]()
+[Calendário da disciplina 2023/2](https://github.com/users/sergiopetrovcic/projects/8/views/1?layout=roadmap)
+
+[Modelo de proposta de tema de PI](Modelo_de_proposta_de_tema.md)
 
 [Breve tutorial sobre repositórios no GitHub](https://docs.google.com/document/d/1gCkiHKbIdB4hai8FTpDcPa5cpkDDA8oSAIwWfV4WAXk/edit?usp=sharing) (use o email institucional do IFSC para acessar).
 
