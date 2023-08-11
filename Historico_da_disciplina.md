@@ -16,6 +16,6 @@ A plataforma GitHub foi adotada a partir da turma 2023/2 como forma de registro 
 
 [Sergio Silva Macedo](). Tema: **Não definido**. 
 
-[Vinicius Westphal De Paula](). Tema: **Não definido**. 
+[Vinicius Westphal De Paula](https://github.com/viniwestphal/PI3). Tema: **Câmera inteligente para detecção e contagem de veículos**. 
 
 ## 2023/1
