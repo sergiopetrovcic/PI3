@@ -6,7 +6,7 @@ Agnaldo Luiz Do Amaral Junior. Tema: **Modelo 3D do IFSC - Câmpus Itajaí**.
 
 Gabriel Mota. Tema: **Não definido**. 
 
-[Gustavo Henrique Silva Zanetti](https://github.com/gustavohsz/PI3-AutoCAD). Tema: **Plugin para AutoCAD: Automação para esquemas de diagramas unifilares com base em um quadro de cargas**. 
+[Gustavo Henrique Silva Zanetti](https://github.com/gustavohsz/PI3-AutoCAD). Tema: **Plugin para AutoCAD: Automação para esquemas unifilares com base em um quadro de cargas**. 
 
 Joao Antonio Oldenburg Vieira. Tema: **Não definido**. 
 
