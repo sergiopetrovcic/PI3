@@ -8,7 +8,7 @@ Gabriel Mota. Tema: **Não definido**.
 
 [Gustavo Henrique Silva Zanetti](https://github.com/gustavohsz/PI3-AutoCAD). Tema: **Plugin para AutoCAD: Automação para esquemas unifilares com base em um quadro de cargas**. 
 
-Joao Antonio Oldenburg Vieira. Tema: **Não definido**. 
+[Joao Antonio Oldenburg Vieira](https://github.com/joaoOldenburg/PI_3_RL_IFSC). Tema: **Não definido**. 
 
 [Jose Celso Vicente do Nascimento](https://github.com/JoseVicente2018/PI-III-JOSE-CELSO). Tema: **Desenvolvimento de um software usando óculos de realidade virtual**. 
 
