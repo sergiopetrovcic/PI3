@@ -10,12 +10,12 @@ Gabriel Mota. Tema: **Não definido**.
 
 Joao Antonio Oldenburg Vieira. Tema: **Não definido**. 
 
-[Jose Celso Vicente Do Nascimento](https://github.com/JoseVicente2018/PI-III-JOSE-CELSO). Tema: **Desenvolvimento de um software usando óculos de realidade virtual**. 
+[Jose Celso Vicente do Nascimento](https://github.com/JoseVicente2018/PI-III-JOSE-CELSO). Tema: **Desenvolvimento de um software usando óculos de realidade virtual**. 
 
 Rafhael Nascimento Marcelino. Tema: **Não definido**. 
 
 Sergio Silva Macedo. Tema: **Não definido**. 
 
-[Vinicius Westphal De Paula](https://github.com/viniwestphal/PI3). Tema: **Câmera de Filmagem Inteligente para Contagem e Detecção de Veículos**. 
+[Vinicius Westphal de Paula](https://github.com/viniwestphal/PI3). Tema: **Câmera de Filmagem Inteligente para Contagem e Detecção de Veículos**. 
 
 ## 2023/1
