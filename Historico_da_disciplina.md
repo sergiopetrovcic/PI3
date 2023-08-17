@@ -14,7 +14,7 @@ Gabriel Mota. Tema: **Não definido**.
 
 Rafhael Nascimento Marcelino. Tema: **Não definido**. 
 
-Sergio Silva Macedo. Tema: **Não definido**. 
+[Sergio Silva Macedo](https://github.com/SergioMacedo15/ProjetoIntegrador). Tema: **Projeto de Monitoramento e Análise de Dados de Sinais Médicos**. 
 
 [Vinicius Westphal de Paula](https://github.com/viniwestphal/PI3). Tema: **Câmera de Filmagem Inteligente para Contagem e Detecção de Veículos**. 
 
