@@ -4,7 +4,7 @@ A plataforma GitHub foi adotada a partir da turma 2023/2 como forma de registro 
 ## 2023/2
 [Agnaldo Luiz do Amaral Junior](https://github.com/amaraljr/PI3). Tema: **Modelo 3D do IFSC - Câmpus Itajaí**. 
 
-Gabriel Mota. Tema: **Não definido**. 
+[Gabriel Mota](https://github.com/GMotaG/ProjetoIntegradorIII). Tema: **Plugin para Obtenção de Informações de Simuladores de Voo**. 
 
 [Gustavo Henrique Silva Zanetti](https://github.com/gustavohsz/PI3-AutoCAD). Tema: **Plugin para AutoCAD: Automação para esquemas unifilares com base em um quadro de cargas**. 
 
