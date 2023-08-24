@@ -2,7 +2,7 @@
 A plataforma GitHub foi adotada a partir da turma 2023/2 como forma de registro e acompanhamento da disciplina. Nas turmas anteriores, os registros eram realizados através da plataforma Google Sites.
 
 ## 2023/2
-Agnaldo Luiz do Amaral Junior. Tema: **Modelo 3D do IFSC - Câmpus Itajaí**. 
+[Agnaldo Luiz do Amaral Junior](https://github.com/amaraljr/PI3). Tema: **Modelo 3D do IFSC - Câmpus Itajaí**. 
 
 Gabriel Mota. Tema: **Não definido**. 
 
