@@ -8,7 +8,7 @@ A plataforma GitHub foi adotada a partir da turma 2023/2 como forma de registro 
 
 [Gustavo Henrique Silva Zanetti](https://github.com/gustavohsz/PI3-AutoCAD). Tema: **Plugin para AutoCAD: Automação para esquemas unifilares com base em um quadro de cargas**. 
 
-[Joao Antonio Oldenburg Vieira](https://github.com/joaoOldenburg/PI_3_RL_IFSC). Tema: **Não definido**. 
+[Joao Antonio Oldenburg Vieira](https://github.com/joaoOldenburg/PI_3_RL_IFSC). Tema: **Simulação de veículos autônomos em ambiente 3D usando reinforcement learning**. 
 
 [Jose Celso Vicente do Nascimento](https://github.com/JoseVicente2018/PI-III-JOSE-CELSO). Tema: **Desenvolvimento de um software usando óculos de realidade virtual**. 
 
