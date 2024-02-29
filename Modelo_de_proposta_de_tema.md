@@ -20,7 +20,7 @@ Orientador: Prof. Nome
 > crie um projeto no GitHub discriminando as ações e o período em que as mesmas serão realizadas
 > coloque dentro do parênteses abaixo o link para o projeto criado
 
-Clique [aqui]() para acessar o cronograma.
+Clique [aqui](https://github.com/users/sergiopetrovcic/projects/8/views/1?layout=roadmap) para acessar o cronograma.
 
 # Lista de materiais
 > crie uma lista dos materiais que serão necessários para a execução do projeto
