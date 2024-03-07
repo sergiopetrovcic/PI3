@@ -4,15 +4,17 @@ A plataforma GitHub foi adotada a partir da turma 2023/2 como forma de registro 
 ## 2024/1
 [Gabriel Mota](https://github.com/GMotaG/ProjetoIntegradorIII). Tema: **Plugin para Obtenção de Informações de Simuladores de Voo**. 
 
-Leandro Peres Romani. Tema: **Não definido**. 
+[Leandro Peres Romani](https://github.com/Leandro1pr/PI3-). Tema: **Não definido**. 
 
-Marcelo Antunes Vanz. Tema: **Não definido**. 
+[Marcelo Antunes Vanz](https://github.com/V4nz05/Projeto-Integrador-3). Tema: **Framework de Programação de Aplicações para Integração de Dados Meteorológicos em Ambiente Visual Unity**. 
 
-Rafhael Nascimento Marcelino. Tema: **Não definido**. 
+[Matheus Eduardo Tesch e Pâmela Regina dos Santos do Amaral](https://github.com/Pamela-ra/PI-3). Tema: **Campus 3D interativo**. 
 
-Rubens Blenke Venturi. Tema: **Não definido**. 
+[Rafhael Nascimento Marcelino](). Tema: **Não definido**. 
 
-Vinícius Hercílio Corrêa. Tema: **Não definido**. 
+[Rubens Blenke Venturi](https://github.com/RubensBlk/Sistema-de-Controle-de-Gerador). Tema: **Sistema de controle do módula de tensão de saída de um gerador**. 
+
+[Vinícius Hercílio Corrêa](https://github.com/viniciushc26/EnergyCheck). Tema: **Desenvolvimento de um Aplicativo Android para Monitoramento de Consumo de Energia Elétrica Residencial**. 
 
 ## 2023/2
 [Agnaldo Luiz do Amaral Junior](https://github.com/amaraljr/PI3). Tema: **Modelo 3D do IFSC - Câmpus Itajaí**. 
