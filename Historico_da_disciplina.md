@@ -10,7 +10,7 @@ A plataforma GitHub foi adotada a partir da turma 2023/2 como forma de registro 
 
 [Matheus Eduardo Tesch e Pâmela Regina dos Santos do Amaral](https://github.com/Pamela-ra/PI-3). Tema: **Campus 3D interativo**. 
 
-[Rafhael Nascimento Marcelino](). Tema: **Não definido**. 
+[Rafhael Nascimento Marcelino](https://github.com/rafhamarcelino/PI3_LoRa_Rafhael). Tema: **Desenvolvimento de um sistema de monitoramento de uma estação meteorológica utilizando a comunicação LoRa**. 
 
 [Rubens Blenke Venturi](https://github.com/RubensBlk/Sistema-de-Controle-de-Gerador). Tema: **Sistema de controle do módula de tensão de saída de um gerador**. 
 
