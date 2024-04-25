@@ -6,7 +6,7 @@ A plataforma GitHub foi adotada a partir da turma 2023/2 como forma de registro 
 
 [Leandro Peres Romani](https://github.com/Leandro1pr/PI3-). Tema: **Não definido**. 
 
-[Marcelo Antunes Vanz](https://github.com/V4nz05/Projeto-Integrador-3). Tema: **Framework de Programação de Aplicações para Integração de Dados Meteorológicos em Ambiente Visual Unity**. 
+[Marcelo Antunes Vanz](https://github.com/V4nz05/PI3). Tema: **Framework de Programação de Aplicações para Integração de Dados Meteorológicos em Ambiente Visual Unity**. 
 
 [Matheus Eduardo Tesch e Pâmela Regina dos Santos do Amaral](https://github.com/Pamela-ra/PI-3). Tema: **Campus 3D interativo**. 
 
